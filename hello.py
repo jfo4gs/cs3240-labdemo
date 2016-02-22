@@ -1,10 +1,4 @@
-
-
-def greeting(msg):
-    print(msg)
-
-
-
+from helper.py import greeting
 
 #main function
 if __name__ == '__main__':
